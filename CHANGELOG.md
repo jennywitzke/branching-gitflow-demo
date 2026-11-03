@@ -1,4 +1,5 @@
 # Changelog
 - Add user login
 - Add card checkout
-- fix typo
+- Add email notification
+- fix typo-Hotfix: login crash
