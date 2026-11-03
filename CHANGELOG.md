@@ -2,3 +2,5 @@
 - Add user login
 - Add card checkout
 - Add email notification
+- fix typo
+
